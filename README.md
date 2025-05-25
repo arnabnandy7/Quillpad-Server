@@ -65,4 +65,7 @@
    Additional Quillpad Documentation coming soon. Thanks for your patience.
 
 
-<!-- GitAds-Verify: GV5BQNH5ECUDTREY65386BNOSTMC4EEA -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/quillpad-server@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/quillpad-server@github)
+
+
